@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customMapSource>
+    <name>Google Satellite</name>
+    <minZoom>0</minZoom>
+    <maxZoom>19</maxZoom>
+    <tileType>jpg</tileType>
+    <tileUpdate>None</tileUpdate>
+    <url>http://mt{$serverpart}.google.com/vt/lyrs=s&amp;x={$x}&amp;y={$y}&amp;z={$z}&amp;scale=1</url>
+    <serverParts>0 1 2 3</serverParts>
+    <backgroundColor>#000000</backgroundColor>
+</customMapSource>

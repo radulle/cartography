@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+    <name>Strava Heatmap Run</name>
+    <minZoom>1</minZoom>
+    <maxZoom>15</maxZoom>
+    <tileType>png</tileType>
+    <url>https://heatmap-external-b.strava.com/tiles/run/hot/{$z}/{$x}/{$y}.png</url>
+    <tileUpdate>None</tileUpdate>
+    <backgroundColor>#000000</backgroundColor>
+    <serverParts></serverParts>
+</customMapSource>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+    <name>Strava Heatmap All Auth</name>
+    <minZoom>1</minZoom>
+    <maxZoom>15</maxZoom>
+    <tileType>png</tileType>
+    <url>https://heatmap-external-b.strava.com/tiles-auth/all/hot/{$z}/{$x}/{$y}.png?Key-Pair-Id=X&amp;Policy=Y&amp;Signature=Z</url>
+    <tileUpdate>None</tileUpdate>
+    <backgroundColor>#000000</backgroundColor>
+    <serverParts></serverParts>
+</customMapSource>
